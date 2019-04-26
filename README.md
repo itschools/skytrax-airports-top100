@@ -3,4 +3,4 @@
 Top100 Airports as CSV supplemented with IATA-Codes, ICAO-Codes
 
 Source: https://www.worldairportawards.com/worlds-top-100-airports-2018/
-Scaper: https://mabraham.de
+Scraper: https://mabraham.de
