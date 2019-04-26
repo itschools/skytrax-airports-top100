@@ -1,0 +1,100 @@
+Position-2018,Name,Position-2017,IATA,ICAO
+1,Singapore Changi,1,SIN,WSSS
+2,Seoul Incheon,3,ICN,RKSI
+3,Tokyo Haneda,2,HND,RJTT
+4,Hong Kong,5,HKG,VHHH
+5,Doha Hamad,6,,OTBD
+6,Munich,4,MUC,EDDM
+7,Centrair Nagoya,7,NKM,RJNA
+8,London Heathrow,9,LHR,EGLL
+9,Zurich,8,ZRH,LSZH
+10,Frankfurt,10,FRA,EDDF
+11,Tokyo Narita,14,HND,RJTT
+12,Amsterdam Schiphol,11,AMS,EHAM
+13,Kansai,12,KIX,RJBB
+14,Vancouver,13,YVR,CYVR
+15,Taiwan Taoyuan,21,TPE,RCTP
+16,Helsinki-Vantaa,17,HEL,EFHK
+17,Vienna,24,VIE,LOWW
+18,Shanghai Hongqiao,18,SHA,ZSSS
+19,Copenhagen,15,CPH,EKCH
+20,Sydney,23,SYD,YSSY
+21,Cape Town,19,CPT,FACT
+22,Brisbane,16,BNE,YBBN
+23,Dubai,20,DXB,OMDB
+24,Auckland,22,AKL,NZAA
+25,Hamburg,27,HAM,EDDH
+26,Durban,35,DUR,FALE
+27,Melbourne,30,MEL,YMML
+28,London City,36,LCY,EGLC
+29,Denver,28,DEN,KDEN
+30,Dusseldorf,40,DUS,EDDL
+31,Cologne / Bonn,29,CGN,EDDK
+32,Johannesburg,37,JNB,FAOR
+33,Beijing Capital,25,PEK,ZBAA
+34,Cincinnati/Northern Kentucky,26,CVG,KCVG
+35,Haikou Meilan,48,HAK,ZJHK
+36,Bangkok Suvarnabhumi,38,BKK,VTBS
+37,Paris CDG,32,CDG,LFPG
+38,Xi'an,45,XIY,ZLXY
+39,Athens,53,AHN,KAHN
+40,Seoul Gimpo,47,GMP,RKSS
+41,Toronto Pearson,43,YYZ,CYYZ
+42,Barcelona,33,BCN,LEBL
+43,Madrid Barajas,31,MAD,LEMD
+44,Kuala Lumpur,34,KUL,WMKK
+45,Jakarta,44,CGK,WIII
+46,Bogota,42,BOG,SKBO
+47,Quito,52,UIO,SEQM
+48,Houston George Bush,54,IAH,KIAH
+50,Atlanta,41,ATL,KATL
+51,San Francisco,39,SFO,KSFO
+52,Christchurch,61,CHC,NZCH
+53,Abu Dhabi,49,AUH,OMAA
+54,London Gatwick,51,LGW,EGKK
+55,Gold Coast,50,OOL,YBCG
+56,Dallas/Fort Worth,46,FWH,KNFW
+57,Lisbon,68,LIS,LPPT
+58,Stockholm Arlanda,62,ARN,ESSA
+59,Perth,71,PER,YPPH
+60,Chengdu,56,CTU,ZUUU
+61,Oslo,59,OSL,ENGM
+62,Seattle-Tacoma,58,SEA,KSEA
+63,Mumbai,64,BOM,VABB
+64,Bangalore,67,BLR,VOBL
+65,Baku,70,GYD,UBBB
+66,Delhi,60,DEL,VIDP
+67,Montréal,80,YUL,CYUL
+68,Moscow Sheremetyevo,81,SVO,UUEE
+69,New York JFK,63,JFK,KJFK
+70,Guayaquil,66,GYE,SEGU
+71,Porto,75,OPO,LPPR
+72,Los Angeles,86,LAX,KLAX
+73,Bahrain,57,BAH,OBBI
+74,Moscow Domodedovo,74,DME,UUDD
+75,Hyderabad,69,HYD,VOHS
+76,Malta,79,MLA,LMML
+77,Halifax,65,YHZ,CYHZ
+78,Adelaide,73,ADL,YPAD
+79,Minneapolis St.Paul,72,MSP,KMSP
+80,Dublin,77,DUB,EIDW
+81,Sanya Phoenix,78,SYX,ZJSY
+82,Hanoi Noi Bai,83,HAN,VVNB
+83,Phoenix,88,PHX,KPHX
+84,Shenzhen,76,SZX,ZGSZ
+85,Rome Fiumicino,158,FCO,LIRF
+86,Birmingham,85,BHX,EGBB
+87,Billund,82,BLL,EKBI
+88,Detroit,94,DTW,KDTW
+89,Boston Logan,89,BOS,KBOS
+90,Budapest,84,BUD,LHBP
+91,Brussels,91,BRU,EBBR
+92,Prague,96,PRG,LKPR
+93,Raleigh Durham,95,RDU,KRDU
+94,Panama Tocumen,90,PTY,MPTO
+95,Warsaw,99,WAW,EPWA
+96,Medina,93,MED,OEMA
+97,Mauritius,104,MRU,FIMP
+98,Nice,92,NCE,LFMN
+99,Houston Hobby,119,HOU,KHOU
+100,Fukuoka,103,FUK,RJFF
